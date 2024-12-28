@@ -20,9 +20,9 @@ I love turning data into actionable insights and building machine learning solut
 
 ## 🛠️ Skills
 - Programming: Python, R, SQL
-- Machine Learning: Scikit-learn, TensorFlow, PyTorch
-- Data Visualization: Matplotlib, Seaborn, Plotly
-- Tools: Git, Jupyter Notebook, Docker
+- Machine Learning: Scikit-learn, TensorFlow, PyTorch, Tidymodels, caret
+- Data Visualization: ggplot, plotnine, Matplotlib, Plotly
+- Tools: Git, Jupyter Notebook, RStudio, positron, VScode, R-shiny, Qaurto
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/nikhilsharma33/)
