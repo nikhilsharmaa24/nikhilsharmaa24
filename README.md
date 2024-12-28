@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nikhilsharmaa24/nikhilsharmaa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there! 👋 I'm [Nikhil Sharma]
-🚀 Data Scientist | 🌱 Lifelong Learner | ✨ Experimentation Enthusiast
+🚀 Data Scientist | 🌱 Lifelong Learner | 
 
 I love turning data into actionable insights and building machine learning solutions to solve real-world problems.
 
@@ -25,4 +23,8 @@ I love turning data into actionable insights and building machine learning solut
 - Machine Learning: Scikit-learn, TensorFlow, PyTorch
 - Data Visualization: Matplotlib, Seaborn, Plotly
 - Tools: Git, Jupyter Notebook, Docker
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/nikhilsharma33/)
+- [Email](mailto:nikhilsharmaa24@gmail.com)
 
