@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there! 👋 I'm [Nikhil Sharma]
+🚀 Data Scientist | 🌱 Lifelong Learner | ✨ Experimentation Enthusiast
+
+I love turning data into actionable insights and building machine learning solutions to solve real-world problems.
+
+## 🛠️ Skills
+- Programming: Python, R, SQL
+- Machine Learning: Scikit-learn, TensorFlow, PyTorch
+- Data Visualization: Matplotlib, Seaborn, Plotly
+- Tools: Git, Jupyter Notebook, Docker
+
