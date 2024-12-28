@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm [Nikhil Sharma]
+# Hi there! 👋 I'm Nikhil Sharma
 🚀 Data Scientist | 🌱 Lifelong Learner | 
 
 I love turning data into actionable insights and building machine learning solutions to solve real-world problems.
